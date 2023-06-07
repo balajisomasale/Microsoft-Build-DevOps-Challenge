@@ -8,7 +8,7 @@ The terms greenfield and brownfield have their origins in residential and indust
 Because of the land use that has once occurred, there could be challenges reusing the land. Like existing buildings, 
 some would be obvious but less obvious, like polluted soil.
 
-Applied to software or DevOps Projects
+### Applied to software or DevOps Projects
 The same terms are routinely applied to software projects and commonly describe DevOps Projects.
 
 On the surface, it can seem that a greenfield DevOps project would be easier to manage and to achieve success.
@@ -24,3 +24,7 @@ The beauty of these projects is that there's often a large gap between customer 
 
 The teams involved may well realize that the status quo needs to change.
 They've lived the challenges and the limitations associated with what they're currently doing.
+
+
+--- start from unit 3 --- 
+https://learn.microsoft.com/en-us/training/modules/choose-right-project/3-decide-when-to-use-greenfield-brownfield-projects
