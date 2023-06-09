@@ -26,12 +26,7 @@ The teams involved may well realize that the status quo needs to change.
 They've lived the challenges and the limitations associated with what they're currently doing.
 
 
-### Identify project metrics and key performance indicators (KPIs):
 
-#### Faster outcomes
-`Deployment Frequency`: Increasing the frequency of deployments is often a critical driver in DevOps Projects.
-`Deployment Speed`: It is necessary to reduce the time that they take.
-`Deployment Size`: How many features, stories, and bug fixes are being deployed each time?
-`Lead Time`: How long does it take from the creation of a work item until it is completed?
+---------
 
 
