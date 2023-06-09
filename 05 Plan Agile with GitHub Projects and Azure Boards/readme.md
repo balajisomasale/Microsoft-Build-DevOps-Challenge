@@ -48,4 +48,4 @@ The templates can be automated and already configured.
 ![image](https://github.com/balajisomasale/Microsoft-Build-DevOps-Challenge/assets/35003840/d54be55b-5b76-4e1f-904d-e927bf04a555)
 
 
-![https://docs.github.com/articles/creating-a-project-board](Creating a project board)
+![Creating a project board]https://docs.github.com/articles/creating-a-project-board)
