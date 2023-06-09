@@ -47,5 +47,35 @@ The templates can be automated and already configured.
 
 ![image](https://github.com/balajisomasale/Microsoft-Build-DevOps-Challenge/assets/35003840/d54be55b-5b76-4e1f-904d-e927bf04a555)
 
+Creating a project board : https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board 
+Editing a project board : https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/editing-a-project-board
+Copying a project board : https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/copying-a-project-board
+Adding issues and pull requests to a project board : https://docs.github.com/en/issues/organizing-your-work-with-project-boards/tracking-work-with-project-boards/adding-issues-and-pull-requests-to-a-project-board
+Project board permissions for an organization : https://docs.github.com/en/organizations/managing-access-to-your-organizations-project-boards/project-board-permissions-for-an-organization
 
-[![Creating a project board](https://docs.github.com/articles/creating-a-project-board)]
+## Projects
+Projects are a new, customizable and flexible tool version of projects for planning and tracking work on GitHub.
+
+A project is a customizable spreadsheet in which you can configure the layout by filtering, sorting, grouping your issues and PRs, and adding custom fields to track metadata.
+
+You can use different views such as Board or spreadsheet/table.
+
+![image](https://github.com/balajisomasale/Microsoft-Build-DevOps-Challenge/assets/35003840/398647b7-84db-4ea4-913b-fcf68b83e67f)
+
+If you change your pull request or issue, your project reflects that change.
+
+You can use custom fields in your tasks. For example:
+
+- A date field to track target ship dates.
+- A number field to track the complexity of a task.
+- A single select field to track whether a task is Low, Medium, or High priority.
+- A text field to add a quick note.
+- An iteration field to plan work week-by-week, including support for breaks.
+
+----------------------------------
+
+Start from here : 
+
+https://learn.microsoft.com/en-us/training/modules/plan-agile-github-projects-azure-boards/3-introduction-to-azure-boards
+
+## Introduction to Azure Boards : 
