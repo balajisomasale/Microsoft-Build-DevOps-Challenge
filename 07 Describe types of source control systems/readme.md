@@ -74,5 +74,3 @@ Then we will use the ASP.NET Core MVC project template to create a new project a
 
 We will then use Visual Studio Code to interact with the Git repository to do basic commit, pull, and push operations
 
---- Start Project from Step 4 --- from --- https://learn.microsoft.com/en-ca/training/modules/describe-types-of-source-control-systems/7-describe-working-git-locally
-
